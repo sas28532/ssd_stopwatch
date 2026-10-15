@@ -1,6 +1,6 @@
 /****************************************************************
-* Author: Sadiq Shafi
-* CPEG222 Project 3: Stopwatch on SSD of CPEG222 Shield
+* Author: S. SHAFI
+* CPEG222 Project 3: Stopwatch on External SSD
 * Date: 9/28/26
 *
 * Description:
